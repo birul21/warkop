@@ -38,7 +38,7 @@ nav a:hover { color: #ffcc00; }
 /* Hero dengan efek parallax */
 .hero {
   height: 100vh;
-  background: url('img/awal.jpeg') no-repeat center center/cover;
+  background: url('img/wrg.jpeg') no-repeat center center/cover;
   display: flex;
   justify-content: center;
   align-items: center;
